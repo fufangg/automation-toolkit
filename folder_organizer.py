@@ -62,4 +62,4 @@ def organizer(folder, file_types=None):
 
 
 # Example usage
-organizer('/home/fufang/Downloads')
+organizer('/path/to/Downloads')
